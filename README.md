@@ -1,0 +1,2 @@
+# staticbot
+static site generator
